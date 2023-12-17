@@ -201,7 +201,7 @@
 
 
 #home{
-    height:400px;background-color:red;
+    height:400px;
 }
 
 @media screen and (max-width:1000px ) {
@@ -212,7 +212,7 @@
 
 @media screen and (max-width:400px ) {
     #home {
-        margin-top: 10px;display: none;
+        margin-top: 10px;
         
     }
 }
@@ -261,7 +261,7 @@ h1:hover {
     perspective-origin: 50% 100px;
     margin-left: 400px;
     margin-top: 40px;
-    display: inline-block;background-color:red;
+    display: inline-block;
 }
 
 @media screen and (max-width:1000px ) {
@@ -274,7 +274,7 @@ h1:hover {
     .wrap {
         margin-top: 0px;
         margin-left: 100px;
-        display:none;
+       
     }
 }
 
@@ -789,7 +789,7 @@ img {
     #contacts {
         width: 480px;
         margin-top: 100px;
-        height:700px;
+        height:700px;display: none;
         
     }
 }
