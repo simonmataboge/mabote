@@ -197,7 +197,7 @@
 
 
 #home{
-    height:400px;
+    height:400px;background-color:red;
 }
 
 @media screen and (max-width:1000px ) {
@@ -700,7 +700,7 @@ img {
         width: 470px;
         margin-left: 10px;
         margin-top: 400px;
-        height: 1200px;
+        height: 1700px;
     }
 }
 
@@ -772,7 +772,7 @@ img {
     #contacts {
         width: 480px;
         margin-top: 200px;
-        height:800px;
+        height:700px;
         
     }
 }
