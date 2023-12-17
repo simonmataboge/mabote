@@ -698,6 +698,7 @@ img {
     height: 800px;
     margin-top: 0px;
     width: 100%;
+    background-image:red;
 }
 
 #testimonials {
@@ -789,7 +790,7 @@ img {
     #contacts {
         width: 480px;
         margin-top: 100px;
-        height:700px;display: none;
+        height:700px;
         
     }
 }
