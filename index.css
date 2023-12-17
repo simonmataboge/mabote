@@ -209,6 +209,13 @@
 @media screen and (max-width:400px ) {
     #home {
         margin-top: 10px;
+        
+    }
+}
+@media screen and (max-width:400px ) {
+    .home {
+        margin-top: 10px;
+        width:490px;
     }
 }
 h2
@@ -255,13 +262,13 @@ h1:hover {
 
 @media screen and (max-width:1000px ) {
     .wrap {
-        margin-top: 300px;
+        margin-top: 0px;
         margin-left: 500px;
     }
 }
 @media screen and (max-width:400px ) {
     .wrap {
-        margin-top: 50px;
+        margin-top: 0px;
         margin-left: 100px;
     }
 }
@@ -422,7 +429,7 @@ img {
     margin-left: 50px;
     font-size: 16px;
     margin-top: -10px;
-    text-align:center;
+    text-align:center;background-color:red;
 }
 
 @media screen and (max-width:1000px ) {
@@ -453,7 +460,12 @@ img {
     }
 }
 
-
+@media screen and (max-width:400px ) {
+    .aboutus img {
+        margin-left: -450px;
+        margin-top: 100px;
+    }
+}
 
 
 
