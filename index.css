@@ -259,6 +259,12 @@ h1:hover {
         margin-left: 500px;
     }
 }
+@media screen and (max-width:400px ) {
+    .wrap {
+        margin-top: 100px;
+        margin-left: 100px;
+    }
+}
 
 .wrap-box {
     margin-left: -100px;
