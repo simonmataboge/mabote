@@ -174,8 +174,8 @@
         color: var(--hover-color);
         text-shadow: 0 0 10px rgba(18,247,255,0.6), 0 0 20px rgba(118,247,255,0.6), 0 0 30px rgba(18,247,255,0.6), 0 0 40px rgba(18,247,255,0.6), 0 0 70px rgba(18,247,255,0.6), 0 0 80px rgba(18,247,255,0.6), 0 0 100px rgba(18,247,255,0.6), 0 0 150px rgba(18,247,255,0.6);
     }
-@media screen and (max-width:1000px ) {
-    .aopenbtn {
+@media screen and (max-width:400px ) {
+    .openbtn {
         float:right;
     }
 }
@@ -481,7 +481,7 @@ img {
     .aboutus  {
         margin-left: -450px;
         margin-top: 200px;
-        height:300px;
+        height:400px;
         background-color:green;
     }
 }
