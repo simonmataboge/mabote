@@ -430,7 +430,7 @@ img {
     margin-left: 50px;
     font-size: 16px;
     margin-top: -10px;
-    text-align:center;background-color:green;
+    text-align:center;
 }
 
 @media screen and (max-width:1000px ) {
@@ -467,7 +467,14 @@ img {
         margin-top: 100px;
     }
 }
-
+@media screen and (max-width:400px ) {
+    .aboutus  {
+        margin-left: -450px;
+        margin-top: 100px;
+        height:300px;
+        background-color:green;
+    }
+}
 
 
 
@@ -584,7 +591,7 @@ img {
 
 @media screen and (max-width:400px ) {
     #templates {
-        height: 1700px;
+        height: 1900px;
     }
 }
 
@@ -666,13 +673,13 @@ img {
 
 @media screen and (max-width:1000px ) {
     .template p {
-        margin-top: -10px;
+        margin-top: 10px;
     }
 }
 
 @media screen and (max-width:400px ) {
     .template p {
-        margin-top: -10px;
+        margin-top: 10px;
     }
 }
 /*----testimonials-------*/
@@ -700,7 +707,7 @@ img {
         width: 470px;
         margin-left: 10px;
         margin-top: 400px;
-        height: 1600px;
+        height: 1540px;
     }
 }
 
@@ -771,7 +778,7 @@ img {
 @media screen and (max-width:400px ) {
     #contacts {
         width: 480px;
-        margin-top: 200px;
+        margin-top: 100px;
         height:700px;
         
     }
