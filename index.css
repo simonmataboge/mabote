@@ -257,7 +257,7 @@ h1:hover {
     perspective-origin: 50% 100px;
     margin-left: 400px;
     margin-top: 40px;
-    display: inline-block;
+    display: inline-block;background-color:red;
 }
 
 @media screen and (max-width:1000px ) {
@@ -591,7 +591,7 @@ img {
 
 @media screen and (max-width:400px ) {
     #templates {
-        height: 1900px;
+        height: 2000px;
     }
 }
 
@@ -706,7 +706,7 @@ img {
     #testimonials {
         width: 470px;
         margin-left: 10px;
-        margin-top: 400px;
+        margin-top: 200px;
         height: 1540px;
     }
 }
