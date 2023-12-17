@@ -92,9 +92,7 @@
 
 @media screen and (max-width:400px ) {
     .menu {
-        background-color: lime;
-        width: 460px;
-        color: red;
+        display:none;
     }
 }
 .menu a {
